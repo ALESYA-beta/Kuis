@@ -1,0 +1,1001 @@
+[
+    {
+        "question": "siapa presiden pertama indonesia?",
+        "options": [
+            "Soekarno",
+            "Soeharto",
+            "Soeharto",
+            "Susilo Bambang Yudhoyono"
+        ],
+        "correctAnswer": "Soekarno"
+    },
+    {
+        "question": "kapan indonesia merdeka?",
+        "options": [
+            "17 Agustus 1945 pukul 10.00\u202fAM GMT+9",
+            "17 Agustus 1945 pukul 12.00\u202fAM GMT+8",
+            "18 Agustus 1945 pukul 20.00\u202fAM GMT+6",
+            "17 Agustus 1946 pukul 05.00\u202fAM GMT+10"
+        ],
+        "correctAnswer": "17 Agustus 1945 pukul 10.00\u202fAM GMT+9"
+    },
+    {
+        "question": "kapan orde baru dimulai?",
+        "options": [
+            "1945",
+            "1966",
+            "1986",
+            "1950"
+        ],
+        "correctAnswer": "1966"
+    },
+    {
+        "question": "Manusia bernafas dengan",
+        "options": [
+            "Hidung",
+            "Mulut",
+            "Paru-paru",
+            "Ingsan"
+        ],
+        "correctAnswer": "Paru-paru"
+    },
+    {
+        "question": "Tanaman melakukan fotosintesis melalui bagian",
+        "options": [
+            "Batang",
+            "Daun",
+            "Akar",
+            "Bunga"
+        ],
+        "correctAnswer": "Daun"
+    },
+    {
+        "question": "Pada proses pencernaan makanan, enzim yang berperan dalam pemecahan karbohidrat adalah",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Protease",
+            "Helikase"
+        ],
+        "correctAnswer": "Amylase"
+    },
+    {
+        "question": "Hewan yang hidup di dua habitat berbeda, baik di darat maupun di air, disebut sebagai",
+        "options": [
+            "Omnivora",
+            "Herbivora",
+            "Karnivora",
+            "Amfibi"
+        ],
+        "correctAnswer": "Amfibi"
+    },
+    {
+        "question": "Zat yang memberikan warna pada daun tumbuhan disebut",
+        "options": [
+            "Klorofil",
+            "Hemoglobin",
+            "Melanin",
+            "Karotenoid"
+        ],
+        "correctAnswer": "Klorofil"
+    },
+    {
+        "question": "Sebuah peta yang menunjukkan pola curah hujan di suatu wilayah disebut",
+        "options": [
+            "Peta Topografi",
+            "Peta Iklim",
+            "Peta Jalur Transportasi",
+            "Peta Geologi"
+        ],
+        "correctAnswer": "Peta Iklim"
+    },
+    {
+        "question": "Lautan Atlantik terletak di antara benua",
+        "options": [
+            "Asia dan Eropa",
+            "Amerika Utara dan Amerika Selatan",
+            "Afrika dan Amerika Selatan",
+            "Australia dan Antartika"
+        ],
+        "correctAnswer": "Afrika dan Amerika Selatan"
+    },
+    {
+        "question": "Apa nama sungai terpanjang di dunia?",
+        "options": [
+            "Nil",
+            "Amazon",
+            "Mississippi",
+            "Yangtze"
+        ],
+        "correctAnswer": "Nil"
+    },
+    {
+        "question": "Manakah dari berikut yang termasuk sumber energi fosil?",
+        "options": [
+            "Angin",
+            "Matahari",
+            "Batu Bara",
+            "Geotermal"
+        ],
+        "correctAnswer": "Batu Bara"
+    },
+    {
+        "question": "Negara manakah yang terletak di Benua Eropa?",
+        "options": [
+            "Indonesia",
+            "Brazil",
+            "Rusia",
+            "Australia"
+        ],
+        "correctAnswer": "Rusia"
+    },
+    {
+        "question": "Apakah huruf ke-16 dalam abjad Arab?",
+        "options": [
+            "\u062a",
+            "\u062c",
+            "\u062d",
+            "\u062e"
+        ],
+        "correctAnswer": "\u062d"
+    },
+    {
+        "question": "Berapakah hasil dari penjumlahan angka \u0663\u0664 dan \u0661\u0667 dalam angka Arab?",
+        "options": [
+            "\u0665\u0661",
+            "\u0664\u0667",
+            "\u0664\u0669",
+            "\u0665\u0666"
+        ],
+        "correctAnswer": "\u0665\u0661"
+    },
+    {
+        "question": "Tuliskan angka \u0667\u0668 dalam bentuk angka Hindu-Arab!",
+        "options": [
+            "\u0666\u0667",
+            "\u0667\u0668",
+            "\u0668\u0669",
+            "\u0669\u0667"
+        ],
+        "correctAnswer": "\u0667\u0668"
+    },
+    {
+        "question": "Apa arti kata \"\u0643\u062a\u0627\u0628\" dalam bahasa Indonesia?",
+        "options": [
+            "Rumah",
+            "Pohon",
+            "Buku",
+            "Air"
+        ],
+        "correctAnswer": "Buku"
+    },
+    {
+        "question": "Apa bentuk jamak dari kata \"\u0642\u0644\u0645\" (qalam) dalam bahasa Arab?",
+        "options": [
+            "\u0623\u0642\u0644\u0627\u0645 (aqlam)",
+            "\u0642\u0644\u0648\u0645 (qulum)",
+            "\u0642\u0644\u0627\u0645\u0627\u062a (qalamat)",
+            "\u0623\u0642\u0644\u0648\u0645 (aqlum)"
+        ],
+        "correctAnswer": " \u0623\u0642\u0644\u0627\u0645 (aqlam)"
+    },
+    {
+        "question": "Tuliskan huruf pertama dalam abjad Arab yang memiliki bentuk bulat dan memiliki titik di tengahnya!",
+        "options": [
+            "\u0628",
+            "\u062a",
+            "\u062b",
+            "\u062c"
+        ],
+        "correctAnswer": "\u062c"
+    },
+    {
+        "question": "Hitung hasil dari 8\u00b2 - 4 x 3 + 5 \u00f7 2.",
+        "options": [
+            "39",
+            "30",
+            "25",
+            "20"
+        ],
+        "correctAnswer": "25"
+    },
+    {
+        "question": "Sebuah persegi panjang memiliki panjang 12 cm dan lebar 8 cm. Berapakah kelilingnya?",
+        "options": [
+            "36 cm",
+            "40 cm",
+            "44 cm",
+            "48 cm"
+        ],
+        "correctAnswer": "48 cm"
+    },
+    {
+        "question": "Jika suatu segitiga memiliki sudut-sudutnya berturut-turut 40\u00b0, 60\u00b0, dan 80\u00b0, maka jenis segitiganya adalah",
+        "options": [
+            "Sama Sisi",
+            "Sama Kaki",
+            "Siku-Siku",
+            "Sembarang"
+        ],
+        "correctAnswer": "Sembarang"
+    },
+    {
+        "question": "Sebuah lingkaran memiliki jari-jari sepanjang 14 cm. Berapakah keliling lingkaran tersebut? (Gunakan \u03c0 = 22\/7)",
+        "options": [
+            "44 cm",
+            "66 cm",
+            "88 cm",
+            "154 cm"
+        ],
+        "correctAnswer": "88 cm"
+    },
+    {
+        "question": "Suatu segitiga memiliki panjang sisi-sisi 5 cm, 12 cm, dan 13 cm. Jenis segitiga tersebut adalah",
+        "options": [
+            "Sama Sisi",
+            "Sama Kaki",
+            "Siku-Siku",
+            "Sembarang"
+        ],
+        "correctAnswer": "Siku-Siku"
+    },
+    {
+        "question": "Tentukan jenis kalimat dari kalimat berikut: \"Pulang sekolah, Rina langsung mengerjakan pekerjaan rumah.\"",
+        "options": [
+            "Kalimat Perintah",
+            "Kalimat Tanya",
+            "Kalimat Petanya",
+            "Kalimat Hubung"
+        ],
+        "correctAnswer": "Kalimat Hubung"
+    },
+    {
+        "question": "Identifikasi unsur intrinsik dalam puisi berikut: \"Pada suatu hari yang indah Bunga-bunga mekar di taman Angin pun berbisik lembut Menyampaikan rahasia alam \"",
+        "options": [
+            "Tema",
+            "Amanat",
+            "Gaya Bahasa",
+            "Nada"
+        ],
+        "correctAnswer": "Tema"
+    },
+    {
+        "question": "Identifikasi jenis kata-kata yang memiliki arti konkret dalam kalimat berikut: \"Anjing hitam melompat pagar untuk mengejar bola.\"",
+        "options": [
+            "Kata benda",
+            "Kata kerja",
+            "Kata sifat",
+            "Kata ganti"
+        ],
+        "correctAnswer": "Kata benda"
+    },
+    {
+        "question": "Tentukan jenis puisi yang memiliki lima larik dan rima akhir pada larik pertama, kedua, dan kelima. Contoh: \" Saat senja tiba di ufuk barat (A) Warna langit memerah nan elok (A) Damai menyapa, hati pun lega (B) Dalam senyum mentari yang beranjak (A) Bagaikan lukisan alam yang sempurna (A) \"",
+        "options": [
+            "Pantun",
+            "Syair",
+            "Haiku",
+            "Sonnet"
+        ],
+        "correctAnswer": "Syair"
+    },
+    {
+        "question": "Dalam Islam, ibadah haji wajib dilaksanakan oleh umat Muslim yang memenuhi syarat-syarat tertentu. Berapa kali umat Muslim melaksanakan ibadah haji dalam seumur hidupnya?",
+        "options": [
+            "Satu kali",
+            "Dua kali",
+            "Tiga kali",
+            "Empat kali"
+        ],
+        "correctAnswer": "Satu kali"
+    },
+    {
+        "question": "Apa yang dimaksud dengan zakat dalam Islam?",
+        "options": [
+            "Shalat lima waktu",
+            "Puasa selama bulan Ramadan",
+            "Pemberian harta tertentu kepada yang berhak",
+            "Perjalanan ke kota Makkah"
+        ],
+        "correctAnswer": "Pemberian harta tertentu kepada yang berhak"
+    },
+    {
+        "question": "Berapakah jumlah rakaat dalam shalat Jumat?",
+        "options": [
+            "2 rakaat",
+            "4 rakaat",
+            "3 rakaat",
+            "5 rakaat"
+        ],
+        "correctAnswer": "2 rakaat"
+    },
+    {
+        "question": "Apa yang dimaksud dengan wudhu dalam Islam?",
+        "options": [
+            "Shalat malam",
+            "Mandi wajib",
+            "Bersuci dengan air sebelum shalat",
+            "Puasa sunnah"
+        ],
+        "correctAnswer": "Bersuci dengan air sebelum shalat"
+    },
+    {
+        "question": "Dalam sistem peredaran darah manusia, organ apa yang bertanggung jawab untuk memompa darah ke seluruh tubuh?",
+        "options": [
+            "Jantung",
+            "Paru-paru",
+            "Ginjal",
+            "Hati"
+        ],
+        "correctAnswer": "Jantung"
+    },
+    {
+        "question": "Bagaimana fungsi leukosit dalam sistem kekebalan tubuh manusia?",
+        "options": [
+            "Mengangkut oksigen",
+            "Menetralkan asam lambung",
+            "Melawan infeksi dan penyakit",
+            "Mencerna makanan"
+        ],
+        "correctAnswer": "Melawan infeksi dan penyakit"
+    },
+    {
+        "question": "Apakah yang dimaksud dengan fotosintesis?",
+        "options": [
+            "Proses pernapasan pada tumbuhan",
+            "Proses pembentukan energi dalam sel",
+            "Proses penguraian senyawa kimia oleh cahaya matahari",
+            "Proses pembentukan makanan oleh tumbuhan dengan bantuan energi matahari"
+        ],
+        "correctAnswer": "Proses pembentukan makanan oleh tumbuhan dengan bantuan energi matahari"
+    },
+    {
+        "question": "Apa yang menjadi penyebab terjadinya gerhana matahari?",
+        "options": [
+            "Bumi berada di antara Matahari dan Bulan",
+            "Bulan berada di antara Matahari dan Bumi",
+            "Bumi berada di antara Matahari dan Mars",
+            "Bulan berada di antara Matahari dan Mars"
+        ],
+        "correctAnswer": "Bulan berada di antara Matahari dan Bumi"
+    },
+    {
+        "question": "Apa yang dimaksud dengan kekakuan benda?",
+        "options": [
+            "Kemampuan benda menghantarkan panas",
+            "Kemampuan benda menyimpan panas",
+            "Kemampuan benda mengalir",
+            "Kemampuan benda untuk menahan perubahan bentuk"
+        ],
+        "correctAnswer": "Kemampuan benda untuk menahan perubahan bentuk"
+    },
+    {
+        "question": "Apa definisi cinta sejati menurutmu?",
+        "options": [
+            "Kehangatan perasaan terhadap seseorang",
+            "Pengorbanan tanpa pamrih",
+            "Kesetiaan tanpa batas",
+            "Semua jawaban di atas benar"
+        ],
+        "correctAnswer": "Semua jawaban di atas benar"
+    },
+    {
+        "question": "Jelaskan apa yang dimaksud dengan \"cinta yang rumit\" menurut pandanganmu.",
+        "options": [
+            "Cinta yang penuh konflik dan drama",
+            "Cinta yang sulit dipahami",
+            "Cinta yang melibatkan banyak orang",
+            "Cinta yang penuh misteri"
+        ],
+        "correctAnswer": "Cinta yang sulit dipahami"
+    },
+    {
+        "question": "Apakah warna baju yang Anda kenakan?",
+        "options": [
+            "Hitam",
+            "Merah",
+            "Hijau",
+            "Saya tidak mengenakan baju saat ini"
+        ],
+        "correctAnswer": "Hitam"
+    },
+    {
+        "question": "Jika seekor ayam menetas dari telur di atas puncak gunung, ke arah mana ayam tersebut akan melihat ketika pertama kali membuka mata?",
+        "options": [
+            "Utara",
+            "Selatan",
+            "Barat",
+            "Timur"
+        ],
+        "correctAnswer": "Timur"
+    },
+    {
+        "question": "Seorang pengemudi taxi melintasi sebuah kota dan menghitung jumlah semua orang yang naik dan turun di setiap halte bus. Pada akhir perjalanan, ia menyadari bahwa tidak ada seorang pun yang tersisa di dalam taxi. Bagaimana mungkin hal itu bisa terjadi?",
+        "options": [
+            "Semua orang turun di setiap halte",
+            "Semua orang naik di setiap halte",
+            "Semua orang adalah pengemudi taxi",
+            "Pengemudi taxi menghitung orang yang melintas di jalan"
+        ],
+        "correctAnswer": "Semua orang adalah pengemudi taxi"
+    },
+    {
+        "question": "Suatu hari, seorang pria memasuki restoran, memesan nasi goreng, makan setengah porsi, dan meninggalkan restoran tanpa membayar. Pada hari berikutnya, pria itu kembali, memesan nasi goreng yang sama, makan setengah porsi lagi, dan meninggalkan restoran tanpa membayar. Ini terjadi setiap hari selama seminggu. Mengapa pemilik restoran tidak menegur pria tersebut?",
+        "options": [
+            "Pemilik restoran tidak menyukai konfrontasi",
+            "Pria tersebut adalah teman dekat pemilik restoran",
+            "Pria tersebut membayar di hari pertama",
+            "Pria tersebut memesan nasi goreng dalam ukuran setengah porsi"
+        ],
+        "correctAnswer": "Pria tersebut membayar di hari pertama"
+    },
+    {
+        "question": "Di sebuah dunia paralel, hewan-hewan peliharaan memiliki kemampuan untuk berbicara dan memahami bahasa manusia. Jika seekor kucing dan seekor anjing sedang berdiskusi tentang keberadaan alien di luar angkasa, apa pendapat kucing tersebut?",
+        "options": [
+            "Kucing percaya akan adanya alien",
+            "Kucing tidak percaya akan adanya alien",
+            "Kucing ingin menjadi teman alien",
+            "Kucing bingung dan tidak memahami pembicaraan"
+        ],
+        "correctAnswer": "Kucing bingung dan tidak memahami pembicaraan"
+    },
+    {
+        "question": "mengapa manusia hidup di daratan?",
+        "options": [
+            "nggabisa bernafas di air",
+            "ngga bisa terbang kaya burung beo",
+            "sudah jadi ketentuanya",
+            "kenyataanya"
+        ],
+        "correctAnswer": "sudah jadi ketentuanya"
+    },
+    {
+        "question": "mengapa manusia tumbuh keatas tidak kesamping",
+        "options": [
+            "karna stuktur tubuh",
+            "karna sempurna",
+            "karena sudah ada jalurnya",
+            "karna minum milo"
+        ],
+        "correctAnswer": "karna minum milo"
+    },
+    {
+        "question": "aulia membawa uang 50.000 untuk membeli gula 1kg di warung bang ahmad seharga Rp18.000 dan membeli seblak seharga Rp10.000 jadi berapa umur bang ahmad?",
+        "options": [
+            "18",
+            "19",
+            "20",
+            "21"
+        ],
+        "correctAnswer": "20"
+    },
+    {
+        "question": "pada suatu hari bang ahmad pergi ke rumah aulia untuk mengambil buku pelajaran ipa jadi kapan bang ahmad ulang tahun?",
+        "options": [
+            "5 januari",
+            "18 september",
+            "14 februari",
+            "12 oktober"
+        ],
+        "correctAnswer": "18 september"
+    },
+    {
+        "question": "Apa yang dikatakan oleh satu tembok kepada tembok lainnya?",
+        "options": [
+            "\"Mari kita tembok di sini dan dengarkan apa yang mereka bicarakan!\"",
+            "\"Apakah kita sudah berdiri lama atau baru tembok kemarin?\"",
+            "\"Kau dengar gosip terbaru dari bangunan sebelah?\"",
+            "\"Apa kabar tembok sejagat?\""
+        ],
+        "correctAnswer": "\"Mari kita tembok di sini dan dengarkan apa yang mereka bicarakan!\""
+    },
+    {
+        "question": "Mengapa burung tidak pernah membayar utang?",
+        "options": [
+            "Karena mereka selalu \"tweet-tweet\" daripada membayar.",
+            "Karena mereka tidak punya \"kredit\" di dunia burung.",
+            "Karena mereka lebih suka \"fly\" dari pada \"pay\".",
+            "Karena mereka pikir hutang itu \"for the birds\"."
+        ],
+        "correctAnswer": "Karena mereka pikir hutang itu \"for the birds\"."
+    },
+    {
+        "question": "Apa yang terjadi saat kucing memasuki dunia mode?",
+        "options": [
+            "Mereka menjadi \"purr-fessional\" model.",
+            "Mereka membuka pameran gaya hidup \"catwalk\".",
+            "Mereka memulai lini pakaian dengan nama \"Meow-tique\".",
+            "Semua jawaban di atas benar."
+        ],
+        "correctAnswer": "Semua jawaban di atas benar."
+    },
+    {
+        "question": "Mengapa sapi tidak pernah menjadi pengacara?",
+        "options": [
+            "Karena mereka selalu \"moo-lah\" ketika berbicara.",
+            " Karena tidak bisa menahan \"bull\"-shit di pengadilan.",
+            "Karena mereka suka \"graze\" daripada membaca undang-undang.",
+            "Karena mereka tidak tahu cara menggunakan \"legal herd\" dalam kasus hukum."
+        ],
+        "correctAnswer": "Karena tidak bisa menahan \"bull\"-shit di pengadilan."
+    },
+    {
+        "question": "Mengapa sepeda tidak pernah bisa berdiri sendiri?",
+        "options": [
+            "Karena mereka \"two-tired\" untuk berdiri.",
+            "Karena mereka tidak punya \"stand\"-ar khusus.",
+            "Karena mereka lebih suka \"roll\" daripada \"stand\".",
+            "Karena mereka berpikir berdiri itu \"cycle\"-sos."
+        ],
+        "correctAnswer": "Karena mereka \"two-tired\" untuk berdiri."
+    },
+    {
+        "question": "Mengapa tomat tidak pernah bisa menjadi presiden?",
+        "options": [
+            "Karena mereka tidak punya niat politik hanya ingin \"ketchup\" dengan teman-temannya.",
+            "Karena mereka selalu terjebak dalam perdebatan apakah mereka sayur atau buah.",
+            "Karena mereka tidak bisa menandatangani dokumen pentingterlalu lembek.",
+            "Karena slogan kampanye mereka terlalu cheesy: \"Let's turn the world into a tomato soup!\""
+        ],
+        "correctAnswer": "Karena mereka selalu terjebak dalam perdebatan apakah mereka sayur atau buah."
+    },
+    {
+        "question": "apa yang cewe sukai dari laki-laki",
+        "options": [
+            "fisik",
+            "uang",
+            "kepintaran",
+            "lucu"
+        ],
+        "correctAnswer": "uang"
+    },
+    {
+        "question": "apa yang membuat cewe marah?",
+        "options": [
+            "sedang datangbulan",
+            "pengen aja",
+            "karna cinta",
+            "karna cape"
+        ],
+        "correctAnswer": "pengen aja"
+    },
+    {
+        "question": "Mengapa orang jatuh cinta pada hari Rabu?",
+        "options": [
+            "Karena \"love\" itu seperti huruf W yang indah.",
+            "Karena pada hari Rabu hati-hati lebih santai \"Wed-nesday\" vibes!",
+            "Karena Rabu merupakan pertengahan minggu waktu yang pas untuk jatuh cinta setengah jalan.",
+            "Karena pada hari Rabu mereka bisa bilang \"I love you Wednesday and always!\""
+        ],
+        "correctAnswer": "Karena pada hari Rabu mereka bisa bilang \"I love you Wednesday and always!\""
+    },
+    {
+        "question": "Mengapa pisang adalah buah yang romantis?",
+        "options": [
+            "Karena selalu \"apeeling\" dan menyenangkan.",
+            "Karena mereka tahu cara \"split\" waktu dengan pasangannya.",
+            "Karena pisang selalu memberikan \"bunch\" cinta.",
+            "Karena setiap kali mereka bertemu itu selalu \"a-peel\"-ing."
+        ],
+        "correctAnswer": "Karena setiap kali mereka bertemu itu selalu \"a-peel\"-ing."
+    },
+    {
+        "question": "Apa yang dikatakan cinta kepada hati?",
+        "options": [
+            "\"Aku bekerja dari dalam kamu bekerja dari luar \u2013 bersama kita adalah tim yang sempurna!\"",
+            "\"Kita seperti kopi dan kue \u2013 selalu lebih baik bersama.\"",
+            "\"Cinta itu bagaikan wifi kadang-kadang ada kadang-kadang tidak.\"",
+            "\"Ketika kamu tersenyum aku mendapatkan sinyal yang kuat.\""
+        ],
+        "correctAnswer": "\"Ketika kamu tersenyum aku mendapatkan sinyal yang kuat.\""
+    },
+    {
+        "question": "Bagaimana cinta bisa membuat teh lebih baik?",
+        "options": [
+            "Karena cinta seperti gula menambahkan kelembutan pada setiap tegukan.",
+            "Karena teh dan cinta sama-sama bisa menyembuhkan hati yang patah.",
+            "Karena saat cinta menyentuh teh menjadi lebih \"steamy\".",
+            "Karena cinta seperti air panas membuat teh lebih hangat dan nyaman."
+        ],
+        "correctAnswer": "Karena saat cinta menyentuh teh menjadi lebih \"steamy\"."
+    },
+    {
+        "question": "Mengapa kamera jatuh cinta pada kamera lain?",
+        "options": [
+            "Karena keduanya selalu \"capture\" momen indah bersama.",
+            "Karena mereka memiliki \"lens\" yang sama untuk melihat dunia.",
+            "Karena setiap kali mereka bertemu itu selalu \"picture\"-perfect.",
+            "Karena cinta itu seperti \"focus\" yang membuat segalanya menjadi jelas."
+        ],
+        "correctAnswer": "Karena mereka memiliki \"lens\" yang sama untuk melihat dunia."
+    },
+    {
+        "question": "Mengapa komputer selalu mencintai?",
+        "options": [
+            "Karena mereka selalu mencari \"connection\" yang kuat.",
+            "Karena di dalam hati mereka ada \"byte\" cinta yang tak terbatas.",
+            "Karena setiap kali melihat layar hati mereka berdetak \"code\"-akode.",
+            "Karena mereka paham bahwa cinta itu seperti algoritma yang unik."
+        ],
+        "correctAnswer": "Karena di dalam hati mereka ada \"byte\" cinta yang tak terbatas."
+    },
+    {
+        "question": "Mengapa buaya selalu pilih-pilih pasangan?",
+        "options": [
+            "Karena mereka ingin yang punya \"snap\"-eal.",
+            "Karena mereka takut terlalu banyak \"reptile\"-si.",
+            "Karena cinta mereka tak terbendung seperti sungai.",
+            "Karena mereka tahu cara memilih \"mate\"-ri yang baik."
+        ],
+        "correctAnswer": "Karena mereka ingin yang punya \"snap\"-eal."
+    },
+    {
+        "question": "Apa yang dikatakan sebuah buku tentang cinta kepada buku lain?",
+        "options": [
+            "\"Kamu adalah halaman terbaik dalam hidupku.\"",
+            "\"Mari kita menulis kisah cinta kita sendiri.\"",
+            "\"Denganmu setiap halaman hidupku berwarna.\"",
+            "\"Aku ingin membagikan cerita kita kepada dunia.\""
+        ],
+        "correctAnswer": "\"Denganmu setiap halaman hidupku berwarna.\""
+    },
+    {
+        "question": "Mengapa sapi betina bisa menjadi ahli romantis?",
+        "options": [
+            "Karena dia selalu memberikan \"moo-lah\"",
+            "Karena dia tahu cara membuat malam menjadi \"udder\"-ly indah.",
+            "Karena dia suka \"graze\"-ing di padang cinta.",
+            "Karena dia selalu memberikan \"cud\"-dles yang hangat."
+        ],
+        "correctAnswer": "Karena dia tahu cara membuat malam menjadi \"udder\"-ly indah."
+    },
+    {
+        "question": "Mengapa sosis tidak pernah bisa memberikan pidato yang bagus?",
+        "options": [
+            "Karena mereka selalu terlalu ter-\"sausage\"-kan dalam kata-kata.",
+            "Karena mereka tidak punya \"bun\"-ch punchlines yang memukau.",
+            "Karena setiap kali berbicara mereka selalu \"wiener\"-wiener kecil.",
+            "Karena mereka lebih suka diam dan digoreng daripada berpidato"
+        ],
+        "correctAnswer": "Karena mereka selalu terlalu ter-\"sausage\"-kan dalam kata-kata."
+    },
+    {
+        "question": "Mengapa pensil selalu merasa tertekan?",
+        "options": [
+            "Karena mereka selalu dipegang oleh tangan yang keras.",
+            "Karena mereka sering ditekan saat harus menyelesaikan tugas.",
+            "Karena mereka takut terhapus dari dunia tulis-menulis.",
+            "Karena pensil selalu merasa terbatas dan panjangnya terus berkurang."
+        ],
+        "correctAnswer": "Karena mereka sering ditekan saat harus menyelesaikan tugas."
+    },
+    {
+        "question": "Mengapa kita bisa merasakan \"getaran\" ketika jatuh cinta?",
+        "options": [
+            "Karena cinta mempengaruhi denyut jantung dan aliran darah.",
+            "Karena terjadi pelepasan hormon-hormon seperti adrenalin dan endorfin.Karena cinta dapat memicu respons kimia yang memengaruhi sistem saraf.",
+            "Karena ada keseimbangan kimiawi yang unik saat kita jatuh cinta."
+        ],
+        "correctAnswer": "Karena ada keseimbangan kimiawi yang unik saat kita jatuh cinta"
+    },
+    {
+        "question": "Bagaimana kita bisa menggambarkan \"siklus hidup\" cinta?",
+        "options": [
+            "Fase awal cinta seperti \"germinasi\" di mana perasaan tumbuh dan berkembang.",
+            "Seperti \"pertumbuhan\" di mana cinta tumbuh menjadi lebih kuat dan kompleks.",
+            "Mencapai \"kematangan\" di mana cinta mencapai puncaknya.",
+            "Terkadang mengalami \"pemadaman\" sebelum \"regenerasi\" cinta baru."
+        ],
+        "correctAnswer": "Terkadang mengalami \"pemadaman\" sebelum \"regenerasi\" cinta baru."
+    },
+    {
+        "question": "Seorang petani memiliki 18 apel dan ingin membaginya rata ke dalam 3 keranjang. Berapa banyak apel yang akan ada di setiap keranjang?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": "6"
+    },
+    {
+        "question": "Rahmi memiliki 24 kelereng. Dia ingin merangkai kelerengnya ke dalam kotak sedemikian rupa sehingga setiap baris berisi 6 kelereng. Berapa baris kelereng yang Rahmi buat?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Apa yang kita sebut dengan benda langit yang menyala di malam hari dan memberikan cahaya di langit?",
+        "options": [
+            "Bulan",
+            "Bintang",
+            "Matahari",
+            "Awan"
+        ],
+        "correctAnswer": "Bintang"
+    },
+    {
+        "question": "Apa yang tumbuh di tanah, memiliki batang, daun, dan bunga, serta bisa kita makan?",
+        "options": [
+            "Batu",
+            "Air",
+            "Tanaman",
+            "Kucing"
+        ],
+        "correctAnswer": "Tanaman"
+    },
+    {
+        "question": "Apa yang dimaksud dengan \"akhlakul karimah\" dalam Islam?",
+        "options": [
+            "Menjalankan ibadah salat lima waktu.",
+            "Menunjukkan perilaku baik dan mulia.",
+            "Melakukan puasa pada bulan Ramadan.",
+            "Melaksanakan ibadah haji setiap tahun."
+        ],
+        "correctAnswer": "Menunjukkan perilaku baik dan mulia."
+    },
+    {
+        "question": "Apa rukun Islam yang kelima, yang merupakan kewajiban bagi umat Islam yang mampu untuk memberikan sebagian harta kekayaannya kepada yang berhak?",
+        "options": [
+            "Shahadah",
+            "Salat",
+            "Zakat",
+            "Sawm"
+        ],
+        "correctAnswer": "Zakat"
+    },
+    {
+        "question": "Apa yang menjadi salah satu tujuan dari ibadah haji dalam Islam?",
+        "options": [
+            "Mencari kekayaan",
+            "Meningkatkan kepopuleran",
+            "Menguatkan ikatan keluarga",
+            "Mendekatkan diri kepada Allah"
+        ],
+        "correctAnswer": "Mendekatkan diri kepada Allah"
+    },
+    {
+        "question": "Jelaskan konsep \"taqwa\" dalam Islam.",
+        "options": [
+            "Kewajiban berpuasa dalam Islam",
+            "Kesadaran dan ketaatan kepada Allah",
+            "Ibadah haji ke Baitullah",
+            "Pelaksanaan salat lima waktu"
+        ],
+        "correctAnswer": "Kesadaran dan ketaatan kepada Allah"
+    },
+    {
+        "question": "Apa yang dimaksud dengan \"ijtihad\" dalam konteks hukum Islam?",
+        "options": [
+            "Kewajiban zakat",
+            "Usaha sungguh-sungguh dalam beribadah",
+            "Proses interpretasi dan penalaran untuk mendapatkan hukum Islam",
+            "Upaya mencapai maqasid syariah"
+        ],
+        "correctAnswer": "Proses interpretasi dan penalaran untuk mendapatkan hukum Islam"
+    },
+    {
+        "question": "Sebutkan empat mazhab dalam hukum Islam.",
+        "options": [
+            "Hanafi - Maliki - Shafi'i - Hanbali",
+            "Syafi'i - Maliki - Ja'fari - Hanafi",
+            "Hanbali - Ja'fari - Zaidi - Ibadi",
+            "Maliki - Hambali - Zaidi - Hanafi"
+        ],
+        "correctAnswer": "Hanafi - Maliki - Shafi'i - Hanbali"
+    },
+    {
+        "question": "Apa hukum dalam Islam terkait dengan pemakaian riba atau bunga?",
+        "options": [
+            "Halal",
+            "Makruh",
+            "Mubah",
+            "Haram"
+        ],
+        "correctAnswer": "Haram"
+    },
+    {
+        "question": "Jelaskan konsep \"ijma\" dalam konteks hukum Islam.",
+        "options": [
+            "Kesepakatan umat Islam",
+            "Ijtihad seorang ulama",
+            "Konsensus umat Islam",
+            "Proses fatwa oleh ulama"
+        ],
+        "correctAnswer": "Konsensus umat Islam"
+    },
+    {
+        "question": "Apa yang dimaksud dengan \"muamalah\" dalam hukum Islam?",
+        "options": [
+            "Ibadah ritual",
+            "Hubungan dengan Allah",
+            "Urusan akhirat",
+            "Hubungan sosial dan transaksi ekonomi"
+        ],
+        "correctAnswer": "Hubungan sosial dan transaksi ekonomi"
+    },
+    {
+        "question": "Sebutkan tiga prinsip utama maqasid syariah",
+        "options": [
+            "Kehidupan - kebebasan - harta",
+            "Agama - akal - keturunan",
+            "Agama - akal - harta",
+            "Keadilan - kesejahteraan - kebahagiaan"
+        ],
+        "correctAnswer": "Agama - akal - harta"
+    },
+    {
+        "question": "Apa yang dimaksud dengan \"khiyar\" dalam hukum Islam?",
+        "options": [
+            "Hak untuk membatalkan suatu transaksi",
+            "Ijtihad seorang ulama",
+            "Kesepakatan umat Islam",
+            "Konsensus umat Islam"
+        ],
+        "correctAnswer": "Hak untuk membatalkan suatu transaksi"
+    },
+    {
+        "question": "Jelaskan perbedaan antara \"harta\" dan \"maal\" dalam konteks hukum Islam.",
+        "options": [
+            "Sama. keduanya merujuk pada harta kekayaan",
+            "Harta bersifat tetap. sementara maal bersifat bergerak",
+            "Harta bersifat bergerak. sementara maal bersifat tetap",
+            "Maal lebih luas. mencakup harta dan segala yang bernilai"
+        ],
+        "correctAnswer": "Maal lebih luas. mencakup harta dan segala yang bernilai"
+    },
+    {
+        "question": "Hitung nilai dari \u221a144.",
+        "options": [
+            "12",
+            "10",
+            "14",
+            "16"
+        ],
+        "correctAnswer": "12"
+    },
+    {
+        "question": "Sebuah segitiga memiliki sudut-sudutnya berukuran 60\u00b0, 30\u00b0, dan 90\u00b0. Jika panjang sisi yang berlawanan dengan sudut 60\u00b0 adalah 8 cm, berapakah panjang sisi yang berlawanan dengan sudut 30\u00b0?",
+        "options": [
+            "4 cm",
+            "8 cm",
+            "12 cm",
+            "16 cm"
+        ],
+        "correctAnswer": "4 cm"
+    },
+    {
+        "question": "Jika luas suatu persegi panjang adalah 36 cm\u00b2 dan panjangnya adalah 6 cm, berapakah lebar persegi panjang tersebut?",
+        "options": [
+            "4 cm",
+            "6 cm",
+            "9 cm",
+            "12 cm"
+        ],
+        "correctAnswer": "9 cm"
+    },
+    {
+        "question": "Apa yang dimaksud dengan globalisasi?",
+        "options": [
+            "Penyebaran budaya lokal",
+            "Perkembangan ekonomi secara terisolasi",
+            "Penyebaran ide - informasi - dan budaya secara global",
+            "Pembatasan interaksi antar negara"
+        ],
+        "correctAnswer": "Penyebaran ide - informasi - dan budaya secara global"
+    },
+    {
+        "question": "Sebutkan dua negara dengan ekonomi terbesar di dunia saat ini.",
+        "options": [
+            "China dan India",
+            "Amerika Serikat dan Jepang",
+            "Jerman dan Rusia",
+            "Brasil dan Meksiko"
+        ],
+        "correctAnswer": "Amerika Serikat dan Jepang"
+    },
+    {
+        "question": "Complete the sentence: \"She ___________ to the library every weekend.\"",
+        "options": [
+            "go",
+            "goes",
+            "going",
+            "went"
+        ],
+        "correctAnswer": "goes"
+    },
+    {
+        "question": "Choose the correct form of the verb: \"My friends and I ___________ soccer every Saturday.\"",
+        "options": [
+            "play",
+            "plays",
+            "playing",
+            "played"
+        ],
+        "correctAnswer": "play"
+    },
+    {
+        "question": "Fill in the blank with the correct preposition: \"She is good __________ playing the piano.\"",
+        "options": [
+            "in",
+            "on",
+            "at",
+            "with"
+        ],
+        "correctAnswer": "at"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "She don't like coffee.",
+            "He isn't coming to the party.",
+            "They goes to school by bus.",
+            "I doesn't have a pet."
+        ],
+        "correctAnswer": "He isn't coming to the party."
+    },
+    {
+        "question": "Fill in the blank with the correct form of the verb: \"Yesterday, they ___________ a new movie at the cinema.\"",
+        "options": [
+            "watch",
+            "watches",
+            "watched",
+            "watching"
+        ],
+        "correctAnswer": "watched"
+    },
+    {
+        "question": "Apa manfaat dari senam aerobik bagi tubuh?",
+        "options": [
+            "Meningkatkan fleksibilitas otot",
+            "Meningkatkan kekuatan otot",
+            "Meningkatkan keseimbangan",
+            "Meningkatkan daya tahan kardiovaskular"
+        ],
+        "correctAnswer": "Meningkatkan daya tahan kardiovaskular"
+    },
+    {
+        "question": "Apa peran utama sistem kardiovaskular dalam tubuh?",
+        "options": [
+            "Mencerna makanan",
+            "Mengangkut oksigen dan nutrisi ke seluruh tubuh",
+            "Mengeluarkan limbah dari tubuh",
+            "Mengatur suhu tubuh"
+        ],
+        "correctAnswer": "Mengangkut oksigen dan nutrisi ke seluruh tubuh"
+    },
+    {
+        "question": "Terjemahkan kalimat berikut ke dalam Bahasa Jawa:",
+        "options": [
+            "Aku arep mlebu pasar wingi.",
+            "Kula pengin masuk pasar dina wingi.",
+            "Kulo badhe mlebu pasar dina wingi.",
+            "Aku mau masuk pasar hari ini."
+        ],
+        "correctAnswer": "Kulo badhe mlebu pasar dina wingi."
+    },
+    {
+        "question": "Apa arti kata \"salametan\" dalam Bahasa Jawa?",
+        "options": [
+            "Pesta pernikahan",
+            "Acara syukuran",
+            "Pertunjukan seni tradisional",
+            "Ritual keagamaan"
+        ],
+        "correctAnswer": "Acara syukuran"
+    },
+    {
+        "question": "Apa arti dari kata \"\u0639\u0644\u0645\" (ilmu) dalam Bahasa Arab?",
+        "options": [
+            "Cinta",
+            "Pendidikan",
+            "Ilmu",
+            "Kebijakan"
+        ],
+        "correctAnswer": "Ilmu"
+    }
+]
